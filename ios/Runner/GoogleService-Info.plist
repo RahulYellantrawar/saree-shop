@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>968254099718-abt5hjhdkdd21147r6u8d8j6enli8ufk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.968254099718-abt5hjhdkdd21147r6u8d8j6enli8ufk</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD5UZSsm66FC1zvHga9PZ6aWttX2LghP1c</string>
+	<key>GCM_SENDER_ID</key>
+	<string>968254099718</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.pSarees</string>
+	<key>PROJECT_ID</key>
+	<string>pochampally-sarees-8cd71</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pochampally-sarees-8cd71.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:968254099718:ios:b9a3c353f826abe5d30e87</string>
+	<key>DATABASE_URL</key>
+	<string>https://pochampally-sarees-8cd71-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
