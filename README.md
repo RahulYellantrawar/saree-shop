@@ -1,20 +1,18 @@
 # Pochampally Sarees
 
-A new Flutter project.
+pochampally Sarees is a Flutter mobile application that allows users to browse and purchase sarees from various categories.
 
-## Getting Started
+## Features
+User authentication: Mobile authentication with OTP.
+Product browsing: Browse through a wide range of products with detailed information and images.
+Shopping cart: Add products to the cart, view the cart contents, and adjust quantities.
+Order placement: Place orders for selected products.
+Order history: View past orders and order details.
+Product search: Search for specific products using keywords.
+Wishlist: Save favorite products for future reference.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
+## Screenshots
 <img src="https://github.com/RahulYellantrawar/saree-shop/assets/138847160/3976fc05-e7f5-40fb-b235-ad5d8746efe2" width="200" height="400" />
 <img src="https://github.com/RahulYellantrawar/saree-shop/assets/138847160/49c6850d-cc41-4582-a5b1-c3b933ae1518" width="200" height="400" />
 <img src="https://github.com/RahulYellantrawar/saree-shop/assets/138847160/bf322cd2-b2d9-4c90-822f-c80a4e8f57a7" width="200" height="400" />
