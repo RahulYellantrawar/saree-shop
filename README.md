@@ -3,13 +3,13 @@
 pochampally Sarees is a Flutter mobile application that allows users to browse and purchase sarees from various categories.
 
 ## Features
-User authentication: Mobile authentication with OTP.
-Product browsing: Browse through a wide range of products with detailed information and images.
-Shopping cart: Add products to the cart, view the cart contents, and adjust quantities.
-Order placement: Place orders for selected products.
-Order history: View past orders and order details.
-Product search: Search for specific products using keywords.
-Wishlist: Save favorite products for future reference.
+User authentication: Mobile authentication with OTP.  
+Product browsing: Browse through a wide range of products with detailed information and images.  
+Shopping cart: Add products to the cart, view the cart contents, and adjust quantities.  
+Order placement: Place orders for selected products.  
+Order history: View past orders and order details.  
+Product search: Search for specific products using keywords.  
+Wishlist: Save favorite products for future reference.  
 
 
 ## Screenshots
