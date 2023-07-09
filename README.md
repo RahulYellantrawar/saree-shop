@@ -21,3 +21,5 @@ samples, guidance on mobile development, and a full API reference.
 <img src="https://github.com/RahulYellantrawar/saree-shop/assets/138847160/71adfa51-a0db-4f42-83e8-e36f1a064f29" width="100" height="200" />
 <img src="https://github.com/RahulYellantrawar/saree-shop/assets/138847160/6a2d1bf7-14f8-4957-a526-09820cc3f5dc" width="100" height="200" />
 <img src="https://github.com/RahulYellantrawar/saree-shop/assets/138847160/721d84c8-ab8b-462d-921c-3d1de8eb94d2" width="100" height="200" />
+<img src="https://github.com/RahulYellantrawar/saree-shop/assets/138847160/51db80ad-b767-478f-9c3e-16353cf2309c" width="100" height="200" />
+<img src="https://github.com/RahulYellantrawar/saree-shop/assets/138847160/1c6be481-40de-4f98-baa5-e5bcbe159ed7" width="100" height="200" />
